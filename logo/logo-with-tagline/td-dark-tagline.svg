@@ -1,32 +1,18 @@
-<svg width="510" height="220" viewBox="0 0 510 220" xmlns="http://www.w3.org/2000/svg">
-  <style type="text/css">
-    /* <![CDATA[ */
-    text {
-      font-family: 'Roboto', sans-serif;
-      font-size: 30px;
-      font-weight: 300;
-      fill: white;
-      letter-spacing: 7px;
-    }
-    .strong {
-      fill: #cb333b;
-    }
-    .sub {
-      font-size: 16px;
-      font-weight: 400;
-      letter-spacing: 4px;
-    }
-    /* ]]> */
-  </style>
-  <g transform="translate(200, 00)" fill="none" stroke="#cb333b" stroke-width="6">
-    <line x1="45" y1="20" x2="45" y2="90" stroke="white" />
-    <line x1="20" y1="10" x2="60" y2="10" />
-    <path d="M55,10 c60,0 60,77 0,77" />
-  </g>
-  <text x="20" y="145">
-    <tspan class="strong">TROMSØ</tspan>
-    <tspan>STUDENTENES</tspan>
-  </text>
-  <line x1="20" y1="165" x2="485" y2="165" stroke="white" stroke-width="2px" />
-  <text x="170" y="195" class="sub">DATAFORENING</text>
+<svg version="1.1" id="td-tagline" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1024 442.588" xml:space="preserve">
+	<text transform="matrix(1 0 0 1 8 316)">
+		<tspan x="0" y="0" fill="#CB333B" font-family="'Roboto-Light'" font-size="69" letter-spacing="16">TROMSØ</tspan>
+	</text>
+	<text transform="matrix(1 0 0 1 384 316)">
+		<tspan x="0" y="0" fill="#FFFFFF" font-family="'Roboto-Light'" font-size="69" letter-spacing="16">STUDENTENES</tspan>
+	</text>
+	<line fill="none" stroke="#FFFFFF" stroke-width="4.6022" x1="0" y1="361" x2="1024" y2="361"/>
+	<text transform="matrix(1 0 0 1 328 430)">
+		<tspan x="0" y="0" fill="#FFFFFF" font-family="'Roboto-Regular'" font-size="37" letter-spacing="8">DATAFORENING</tspan>
+	</text>
+	<g id="logo">
+		<line fill="none" stroke="#FFFFFF" stroke-width="13.8067" x1="477.483" y1="30.588" x2="477.483" y2="191.667"/>
+		<line fill="none" stroke="#CB333B" stroke-width="13.8067" x1="419.955" y1="7.577" x2="512" y2="7.577"/>
+		<path fill="none" stroke="#CB333B" stroke-width="13.8067" d="M500.494,7.577c138.067,0,138.067,177.187,0,177.187"/>
+	</g>
 </svg>
